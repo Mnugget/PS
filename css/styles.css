@@ -29,10 +29,12 @@ h1 {
 
 h2 {
   font-family: 'Cinzel', serif;
+  color: #11999E;
 }
 
 h3 {
   font-family: 'Cinzel', serif;
+  color: #11999E;
 }
 
 .pro {
@@ -54,6 +56,7 @@ h3 {
 .Michael {
   height: 200px;
   border-radius: 50%;
+  padding-top: 1px;
 
 }
 
@@ -65,4 +68,14 @@ h3 {
   font-size: 2.5rem;
   color:  #66BFBF;
   text-shadow: 2px 2px black;
+  font-weight: normal;
+  margin-top: 80px;
+}
+
+.mountain {
+  vertical-align: bottom;
+}
+
+.footer-link {
+  color: #11999E;
 }
