@@ -2,6 +2,7 @@
   background-color: #351f39;
   position: relative;
   padding-top: 100px;
+  background-image: linear-gradient(#351f39, 80%, #f0c38e, #e97878);
 }
 
 .middle-container {
@@ -40,6 +41,10 @@ h2 {
 h3 {
   font-family: 'Cinzel', serif;
   color: #11999E;
+}
+
+hr {
+  margin:auto;
 }
 
 .pro {
@@ -103,4 +108,16 @@ h3 {
 
 .contact-me {
   background-color: #351f39;
+}
+
+.stars {
+  position: absolute;
+  right: 15%;
+  top: 20%;
+}
+
+.stars2 {
+  position: absolute;
+  left: 15%;
+  top: .5%;
 }
