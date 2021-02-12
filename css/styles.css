@@ -9,6 +9,7 @@
 }
 
 .bottom-container {
+  background-color: #726a95;
 
 }
 
@@ -17,6 +18,10 @@ body {
   text-align: center;
   font-family: 'Archivo Narrow', sans-serif;
   font-size: 200%;
+}
+
+.btn {
+  color: #fff48f;
 }
 
 h1 {
@@ -78,4 +83,24 @@ h3 {
 
 .footer-link {
   color: #11999E;
+}
+
+.profile {
+    background-color: #726a95;
+}
+
+.skills {
+  background-color: #8b5e83;
+}
+
+.h2-top {
+  margin-top: auto;
+}
+
+.p-end {
+  margin-bottom: auto;
+}
+
+.contact-me {
+  background-color: #351f39;
 }
